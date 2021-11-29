@@ -1,4 +1,4 @@
-
+package Adapter;
 
 public class Contact {
 
