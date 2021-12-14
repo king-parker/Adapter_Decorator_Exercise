@@ -19,7 +19,6 @@ public class MainDecorator {
         word = source.next();
 
         while (!word.isEmpty()) {
-//            System.out.println(word.substring(2,word.length()-3));
             System.out.println(word);
             word = source.next();
         }
